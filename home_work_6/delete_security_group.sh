@@ -1,0 +1,1 @@
+aws ec2 delete-security-group --group-id sg-0a1b2c3d4e5f67890
